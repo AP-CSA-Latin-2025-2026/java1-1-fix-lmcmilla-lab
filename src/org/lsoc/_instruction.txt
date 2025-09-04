@@ -6,8 +6,8 @@ Go to the indentifyErrors file,
 1) Open up the file IdentifyErrors
 2) FIX the look of the file with option + shift + f (mac) [Shift + Alt + F  should work on windows]
 3) Run the code an Identify the 4 indentifyErrors and type them below [found in each try-catch]
-  A)
-  B)
-  C)
-  D)
+  A) Logical - Wanted to print hello world on one line but printed on two
+  B) Logical - Wanted to print triangle with *** but printed rectange
+  C) Runtime - Logic was right but mathematically doesnt work 
+  D) Runtime - Custom / runtime because you made the error
 4)Save and sync changes with github to turn in! 
